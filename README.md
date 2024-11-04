@@ -14,7 +14,7 @@ The game interface is structured with a `GridLayout` in XML, representing the Ti
 
 ## Interface
 
-![image](https://github.com/user-attachments/assets/819a7514-1a1b-4990-a336-896abe9cfd5a)
+![image](https://github.com/user-attachments/assets/d04deae8-7b48-443d-b123-87c1a35239ee)
 
 ## How to Play
 1. Player X goes first, followed by Player O. Alternate turns by tapping on any empty cell in the grid.
