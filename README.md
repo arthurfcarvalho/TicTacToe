@@ -12,6 +12,10 @@ A simple and interactive Tic-Tac-Toe game built for Android using Kotlin for the
 ## Project Structure
 The game interface is structured with a `GridLayout` in XML, representing the Tic-Tac-Toe board as a 3x3 grid of buttons. Above the board, a `TextView` shows the current game status. The game logic, including turn alternation and win/draw detection, is implemented in Kotlin.
 
+## Interface
+
+![image](https://github.com/user-attachments/assets/819a7514-1a1b-4990-a336-896abe9cfd5a)
+
 ## How to Play
 1. Player X goes first, followed by Player O. Alternate turns by tapping on any empty cell in the grid.
 2. The first player to align three of their symbols horizontally, vertically, or diagonally wins.
